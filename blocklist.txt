@@ -1,6 +1,7 @@
 www.youtube.com###button > .ytd-topbar-menu-button-renderer
 www.youtube.com##body .ytd-masthead:style(min-width:0 !important)
 www.youtube.com###text:contains(Dislike)
+www.youtube.com##ytd-download-button-renderer
 www.usedvictoria.com##.ad-gallery
 www.usedvictoria.com##.browse-widget
 www.usedvictoria.com##.browse-top-ad-list
