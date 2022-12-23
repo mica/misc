@@ -15,3 +15,4 @@ www.kijiji.ca##[class^='headerTools-'] [class^='container-']
 www.reddit.com###Header--Moderation
 www.reddit.com##.icon-video_live:nth-ancestor(1)
 www.reddit.com##.icon-campaign:nth-ancestor(1)
+www.cheknews.ca##.mailchimp-form
