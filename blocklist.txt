@@ -11,6 +11,7 @@ www.usedvictoria.com##.browse-featured-list
 www.usedvictoria.com###featured-usedad
 www.usedvictoria.com##.align-items-center:has(#top-ads-title)
 www.usedvictoria.com##.justify-content-center.position-relative:has(.google-ad-wrapper)
+www.usedvictoria.com###display-google
 www.kijiji.ca##[class^='headerTools-'] [class^='container-']
 www.reddit.com###Header--Moderation
 www.reddit.com##.icon-video_live:nth-ancestor(1)
