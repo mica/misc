@@ -17,3 +17,4 @@ kijiji.ca##[class^='headerTools-'] [class^='container-']
 reddit.com###Header--Moderation
 reddit.com##.icon-video_live:nth-ancestor(1)
 reddit.com##.icon-campaign:nth-ancestor(1)
+varagesale.com##.flippxp-frame
