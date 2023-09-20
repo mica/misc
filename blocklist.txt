@@ -1,10 +1,10 @@
-youtube.com###button > .ytd-topbar-menu-button-renderer
-youtube.com##body .ytd-masthead:style(min-width:0 !important)
+!thumbnail buttons
+youtube.com###hover-overlays
+!autoplay button
+youtube.com##button.ytp-button:nth-of-type(7)
+youtube.com##.ytp-next-button
 youtube.com##ytd-button-renderer:contains(Thanks)
 youtube.com##ytd-download-button-renderer
-youtube.com##.ytp-next-button
-youtube.com##.ytp-ce-element-show
-youtube.com###hover-overlays
 usedvictoria.com##.ad-gallery
 usedvictoria.com##.browse-widget
 usedvictoria.com##.browse-top-ad-list
@@ -13,8 +13,5 @@ usedvictoria.com###featured-usedad
 usedvictoria.com##.align-items-center:has(#top-ads-title)
 usedvictoria.com##.justify-content-center.position-relative:has(.google-ad-wrapper)
 usedvictoria.com###display-google
-kijiji.ca##[class^='headerTools-'] [class^='container-']
-reddit.com###Header--Moderation
-reddit.com##.icon-video_live:nth-ancestor(1)
-reddit.com##.icon-campaign:nth-ancestor(1)
+kijiji.ca##a[aria-label="Notifications, 0"]
 varagesale.com##.flippxp-frame
