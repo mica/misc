@@ -13,5 +13,6 @@ usedvictoria.com###featured-usedad
 usedvictoria.com##.align-items-center:has(#top-ads-title)
 usedvictoria.com##.justify-content-center.position-relative:has(.google-ad-wrapper)
 usedvictoria.com###display-google
-kijiji.ca##a[aria-label="Notifications, 0"]
+kijiji.ca##a[href="/n-notifications.html"]
+kijiji.ca##li[data-testid="shopping-ads-carousel"]
 varagesale.com##.flippxp-frame
