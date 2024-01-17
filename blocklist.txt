@@ -1,5 +1,7 @@
-!autoplay button
+! autoplay button
 youtube.com##button.ytp-button:nth-of-type(7)
+! end cards/logo
+youtube.com##.ytp-ce-element
 youtube.com##[aria-label="Add to queue"]
 youtube.com##.ytp-next-button
 youtube.com##ytd-button-renderer:contains(Thanks)
