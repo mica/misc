@@ -6,6 +6,7 @@ youtube.com##[aria-label="Add to queue"]
 youtube.com##.ytp-next-button
 youtube.com##ytd-button-renderer:contains(Thanks)
 youtube.com##ytd-download-button-renderer
+reddit.com##:matches-path(/r/all)button[id^="subscribe"]
 usedvictoria.com##.ad-gallery
 usedvictoria.com##.browse-widget
 usedvictoria.com##.browse-top-ad-list
