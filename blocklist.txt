@@ -7,7 +7,7 @@ youtube.com##[aria-label="Add to queue"]
 youtube.com##.ytp-next-button
 youtube.com##ytd-button-renderer:contains(Thanks)
 youtube.com##ytd-download-button-renderer
-reddit.com##:matches-path(/r/all)button[id^="subscribe"]
+youtube.com##[data-tooltip-target-id="ytp-autonav-toggle-button"]
 usedvictoria.com##.ad-gallery
 usedvictoria.com##.browse-widget
 usedvictoria.com##.browse-top-ad-list
@@ -16,8 +16,19 @@ usedvictoria.com###featured-usedad
 usedvictoria.com##.align-items-center:has(#top-ads-title)
 usedvictoria.com##.justify-content-center.position-relative:has(.google-ad-wrapper)
 usedvictoria.com###display-google
+usedvictoria.com##.flipp-ux-header
 kijiji.ca##a[href="/n-notifications.html"]
 kijiji.ca##li[data-testid="shopping-ads-carousel"]
 kijiji.ca##a[aria-label="Learn more about top ads"]:upward(3)
 varagesale.com##.flippxp-frame
 player.zype.com##.zype-continue-watching
+reverb.com##.jumplink--similar-products
+reddit.com##recent-posts
+! disable user info popup
+    reddit.com##div[slot=commentAvatar] div[slot=content]
+    reddit.com##div[slot=commentMeta] div[slot=content]
+    reddit.com##div#faceplate-tooltip[aria-label$="details"]
+! disable "embed" popup, enable text drag
+    reddit.com##embed-snippet-share-button
+    reddit.com##+js(aeld, mousedown, isSelectionOutOfRange)
+    reddit.com##+js(aeld, mouseup, shouldShowButton)
