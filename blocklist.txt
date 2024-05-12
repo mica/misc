@@ -16,7 +16,7 @@ usedvictoria.com###featured-usedad
 usedvictoria.com##.align-items-center:has(#top-ads-title)
 usedvictoria.com##.justify-content-center.position-relative:has(.google-ad-wrapper)
 usedvictoria.com###display-google
-usedvictoria.com##.flipp-ux-slot-ssdaw212
+usedvictoria.com###flipp-ux-slot-ssdaw212
 kijiji.ca##a[href="/n-notifications.html"]
 kijiji.ca##li[data-testid="shopping-ads-carousel"]
 kijiji.ca##a[aria-label="Learn more about top ads"]:upward(3)
