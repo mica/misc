@@ -1,13 +1,3 @@
-! end cards/logo
-youtube.com##.ytp-ce-element
-youtube.com##button.ytp-button[title="Play on TV"]
-youtube.com##button.ytp-button[title="Picture-in-picture"]
-youtube.com##button.ytp-button[title="Miniplayer (i)"]
-youtube.com##[aria-label="Add to queue"]
-youtube.com##.ytp-next-button
-youtube.com##ytd-button-renderer:contains(Thanks)
-youtube.com##ytd-download-button-renderer
-youtube.com##[data-tooltip-target-id="ytp-autonav-toggle-button"]
 usedvictoria.com##.ad-gallery
 usedvictoria.com##.browse-widget
 usedvictoria.com##.browse-top-ad-list
