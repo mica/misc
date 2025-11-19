@@ -1,3 +1,5 @@
+youtube.com##.ytmPaidContentOverlayHost
+youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape--membership)
 usedvictoria.com##.ad-gallery
 usedvictoria.com##.browse-widget
 usedvictoria.com##.browse-top-ad-list
@@ -14,11 +16,5 @@ varagesale.com##.flippxp-frame
 player.zype.com##.zype-continue-watching
 reverb.com##.jumplink--similar-products
 reddit.com##recent-posts
-! disable user info popup
-    reddit.com##div[slot=commentAvatar] div[slot=content]
-    reddit.com##div[slot=commentMeta] div[slot=content]
-    reddit.com##div#faceplate-tooltip[aria-label$="details"]
-! disable "embed" popup, enable text drag
-    reddit.com##embed-snippet-share-button
-    reddit.com##+js(aeld, mousedown, isSelectionOutOfRange)
-    reddit.com##+js(aeld, mouseup, shouldShowButton)
+reddit.com##[noun=games_drawer]+hr
+reddit.com##[noun=games_drawer]
