@@ -1,7 +1,7 @@
 youtube.com##.ytmPaidContentOverlayHost
 youtube.com##ytd-rich-item-renderer:has(.ytCollectionThumbnailViewModelHost)
 youtube.com##ytd-rich-item-renderer:has(.yt-badge-shape--membership)
-youtube.com##yt-lockup-view-model:has-text(Members only)
+youtube.com##yt-lockup-view-model:has-text(Members)
 kijiji.ca##a[href="/n-notifications.html"]
 kijiji.ca##li[data-testid="shopping-ads-carousel"]
 kijiji.ca##a[aria-label="Learn more about top ads"]:upward(3)
